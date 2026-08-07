@@ -100,7 +100,7 @@ I'm actively building a career in **AI/Machine Learning** and looking to:
 | Platform | Link |
 |----------|------|
 | 📧 **Email** | [telirahu1481@gmail.com](mailto:telirahu1481@gmail.com) |
-| 💼 **LinkedIn** | [@Rahul Teli](https://linkedin.com/in/rahul-teli) |
+| 💼 **LinkedIn** | [@Rahul Teli](https://linkedin.com/in/rahul-teli-12b3543ba) |
 | 🐙 **GitHub** | [@rahulteli-45](https://github.com/rahulteli-45) |
 
 **Let's build something amazing together!** 🚀
