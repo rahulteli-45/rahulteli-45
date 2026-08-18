@@ -2,7 +2,7 @@
 
 > Third-Year AI & ML Student | Python Developer | Open to Opportunities
 
----
+----
 
 ## 🎯 About Me
 
