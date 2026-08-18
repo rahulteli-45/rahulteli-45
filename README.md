@@ -20,8 +20,8 @@ I'm a **B.Tech student** in **Artificial Intelligence & Machine Learning** at D.
 
 | Certification | Issuer | Date | Credential |
 |---|---|---|---|
-| INFOSYS | Springbord | Advanced SAS with SQL | June 29,2026 |
-| **IBM Python Fundamentals** | IBM Developer Skills Network(Etrain) | CEPYT1IN | CEPYT1IN  July 1, 2026 |
+| INFOSYS| Springbord | June 29,2026 | Advanced SAS with SQ |
+| **IBM Python Fundamentals** | IBM Developer Skills Network(Etrain) | July 1, 2026 | July 1, 2026 |
 | **IBM Software Foundation using C++** | IBM Developer Skills Network (Etrain) | — | — |
 
 
