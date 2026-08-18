@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul Teli 👋
+# Hi, I'm Rahul Teli 👋
 
 > Third-Year AI & ML Student | Python Developer | Open to Opportunities
 
@@ -20,8 +20,10 @@ I'm a **B.Tech student** in **Artificial Intelligence & Machine Learning** at D.
 
 | Certification | Issuer | Date | Credential |
 |---|---|---|---|
+| **INFOSYS | Springbord | Advanced SAS with SQL | June 29,2026 |
 | **IBM Python Fundamentals** | IBM Developer Skills Network (Etrain) | July 1, 2026 | CEPYT1IN |
 | **IBM Software Foundation using C++** | IBM Developer Skills Network (Etrain) | — | — |
+
 
 ---
 
