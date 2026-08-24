@@ -1,29 +1,24 @@
-# Hi, I'm Rahul Teli 👋
+Hi, I'm Rahul Teli 👋
 
-> Third-Year AI & ML Student | Python Developer | Open to Opportunities
+Third-Year AI & ML Student | Python Developer | Open to Opportunities
 
-----
+🎯 About Me
 
-## 🎯 About Me
+I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil Agriculture and Technical University (DYP-ATU), Kolhapur, with a passion for building intelligent systems and solving real-world problems through code.
 
-I'm a **B.Tech student** in **Artificial Intelligence & Machine Learning** at D.Y. Patil Agriculture and Technical University (DYP-ATU), Kolhapur, with a passion for building intelligent systems and solving real-world problems through code.
-
-- 🎓 **Currently:** Third Year, Semester V (2025–26) 
-- 🌱 **Specializing In:** RAG (Retrieval-Augmented Generation), NLP, and Python Development
-- 🔍 **Learning:** Machine Learning pipelines, IoT applications, data structures, and system design
-- 🌍 **Future Goal:** Pursue higher education in AI/ML (International — Australia preferred)
-- 💡 **Mindset:** "Every expert was once a beginner" — passionate about continuous learning and practical application
+🎓 Currently: Third Year, Semester VI (Aug 2026–Dec 2026)
+🌱 Specializing In: RAG (Retrieval-Augmented Generation), NLP, Python Development
+🔍 Learning: Machine Learning pipelines, IoT applications, system design, clean code practices
+💡 Mindset: "Every expert was once a beginner" — passionate about continuous learning
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-| Certification | Issuer | Date | Credential |
-|---|---|---|---|
-| INFOSYS| Springbord | June 29,2026 | Advanced SAS with SQ |
-| **IBM Python Fundamentals** | IBM Developer Skills Network(Etrain) | July 1, 2026 | July 1, 2026 |
-| **IBM Software Foundation using C++** | IBM Developer Skills Network (Etrain) | — | — |
-
+Certification	Issuer	Date	Status
+Advanced SAS	Infosys Springboard	June 29, 2026	✅
+IBM Python Fundamentals	IBM Developer Skills Network	July 1, 2026	✅
+IBM Software Foundation (C++)	IBM Developer Skills Network	2026	✅
 
 ---
 
