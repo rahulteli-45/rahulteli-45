@@ -15,10 +15,10 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ## 🏆 Certifications & Achievements
 
-Certification	Issuer	Date	Status
-Advanced SAS	Infosys Springboard	June 29, 2026	✅
-IBM Python Fundamentals	IBM Developer Skills Network	July 1, 2026	✅
-IBM Software Foundation (C++)	IBM Developer Skills Network	2026	✅
+**| Certification	| Issuer	| Date	Status
+**| Advanced SAS	Infosys | Springboard	| June 29, 2026	✅
+**| IBM Python Fundamentals | IBM Developer Skills Network	| July 1, 2026	✅
+**| IBM Software Foundation (C++)	| IBM Developer Skills Network	| 2026	✅
 
 ---
 
