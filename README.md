@@ -6,12 +6,12 @@ Third-Year AI & ML Student | Python Developer | Open to Opportunities
 
 I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil Agriculture and Technical University (DYP-ATU), Kolhapur, with a passion for building intelligent systems and solving real-world problems through code.
 
-🎓 Currently: Third Year, Semester VI (Aug 2026–Dec 2026)
+🎓 Currently: Third Year, Semester V (Aug 2026–Dec 2026)
 🌱 Specializing In: RAG (Retrieval-Augmented Generation), NLP, Python Development
 🔍 Learning: Machine Learning pipelines, IoT applications, system design, clean code practices
 💡 Mindset: "Every expert was once a beginner" — passionate about continuous learning
 
----
+----
 
 ## 🏆 Certifications & Achievements
 
@@ -20,7 +20,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 **| IBM Python Fundamentals | IBM Developer Skills Network	| July 1, 2026	✅
 **| IBM Software Foundation (C++)	| IBM Developer Skills Network	| 2026	✅
 
----
+----
 
 ## 💻 Technical Skills
 
@@ -43,7 +43,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 - **IoT:** MQTT, Fog/Edge Computing, Sensor Networks
 - **Project Management:** Agile methodologies, Planning, Execution
 
----
+----
 
 ## 🚀 What I'm Working On
 
@@ -54,7 +54,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 - ✅ Exploring **RAG-based applications** for NLP tasks
 - ✅ Contributing to **open-source projects** (planned)
 
----
+----
 
 ## 📂 Featured Projects
 
@@ -67,7 +67,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 - 🔬 IoT & Sensor Integration
 - 📝 Educational Code & Tutorials
 
----
+----
 
 ## 📊 GitHub Stats
 
@@ -104,7 +104,7 @@ I'm actively building a career in **AI/Machine Learning** and looking to:
 
 </div>
 
----
+----
 
 ## 📌 Quick Links
 
@@ -113,7 +113,7 @@ I'm actively building a career in **AI/Machine Learning** and looking to:
 - 📝 [Blog / Insights](#)
 - 🌟 [Resume / CV](#)
 
----
+----
 
 <div align="center">
 
