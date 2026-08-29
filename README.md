@@ -2,7 +2,7 @@ Hi, I'm Rahul Teli 👋
 
 Third-Year AI & ML Student | Python Developer | Open to Opportunities
 
-🎯 About Me
+🎯 About Me..
 
 I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil Agriculture and Technical University (DYP-ATU), Kolhapur, with a passion for building intelligent systems and solving real-world problems through code.
 
