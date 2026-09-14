@@ -1,6 +1,6 @@
-Hi, I'm Rahul Teli 👋
+Hi, I'm Rahul 👋
 
-Third-Year AI & ML Student | Python Developer | Open to Opportunities
+Third-Year AI & ML Student | Python Developer | Open to Opportunities.
 
 🎯 About Me..
 
