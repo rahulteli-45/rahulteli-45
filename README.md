@@ -36,12 +36,12 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Academic Focus Areas
-- **Machine Learning:** Classification, Clustering, SVMs, Neural Networks, Cross-validation
-- **Natural Language Processing:** Tokenization, Text processing, RAG frameworks
-- **Mathematics:** Linear Algebra, Eigenvalues/Eigenvectors, Fuzzy Logic
-- **IoT:** MQTT, Fog/Edge Computing, Sensor Networks
-- **Project Management:** Agile methodologies, Planning, Execution
+## 📚 Academic Focus Areas
+🤖 Machine Learning       → Classification, Clustering, SVMs, Neural Networks
+📝 NLP                    → Tokenization, Text Processing, RAG Frameworks
+🧮 Mathematics            → Linear Algebra, Eigenvalues, Fuzzy Logic
+🌐 IoT & Edge Computing   → MQTT, Fog Computing, Sensor Networks
+📊 Project Management     → Agile, Planning, Execution
 
 ----
 
