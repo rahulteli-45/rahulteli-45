@@ -46,13 +46,12 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 ----
 
 ## 🚀 What I'm Working On
-
-- ✅ Building **practical ML projects** with real datasets
-- ✅ Mastering **Python fundamentals** and advanced OOP concepts
-- ✅ Getting comfortable with **Git & GitHub** workflows
-- ✅ Writing **clean, readable, and maintainable code**
-- ✅ Exploring **RAG-based applications** for NLP tasks
-- ✅ Contributing to **open-source projects** (planned)
+✅ Building practical ML projects with real datasets
+✅ Mastering Python fundamentals and advanced OOP concepts
+✅ Getting comfortable with Git & GitHub workflows
+✅ Writing clean, readable, and maintainable code
+✅ Exploring RAG-based applications for NLP tasks
+✅ Contributing to open-source projects
 
 ----
 
