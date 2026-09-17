@@ -13,7 +13,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ----
 
-## 🏆 Certifications & Achievements
+### 🏆 Certifications & Achievements
 
 **| Certification	| Issuer	| Date	Status
 **| Advanced SAS	Infosys | Springboard	| June 29, 2026	✅
@@ -22,7 +22,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ----
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📚 Academic Focus Areas
+### 📚 Academic Focus Areas
 🤖 Machine Learning       → Classification, Clustering, SVMs, Neural Networks
 📝 NLP                    → Tokenization, Text Processing, RAG Frameworks
 🧮 Mathematics            → Linear Algebra, Eigenvalues, Fuzzy Logic
@@ -45,7 +45,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ----
 
-## 🚀 What I'm Working On
+### 🚀 What I'm Working On
 ✅ Building practical ML projects with real datasets
 ✅ Mastering Python fundamentals and advanced OOP concepts
 ✅ Getting comfortable with Git & GitHub workflows
@@ -55,7 +55,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ----
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 *Repository highlights coming soon as projects are completed and made public*
 
@@ -68,7 +68,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ----
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ```
 📈 4 Repositories | 👥 0 Followers | 👉 2 Following
@@ -78,7 +78,7 @@ I'm a B.Tech student in Artificial Intelligence & Machine Learning at D.Y. Patil
 
 ---
 
-## 🎓 Why Connect With Me?
+### 🎓 Why Connect With Me?
 
 I'm actively building a career in **AI/Machine Learning** and looking to:
 - Collaborate on **meaningful projects**
@@ -89,7 +89,7 @@ I'm actively building a career in **AI/Machine Learning** and looking to:
 
 ---
 
-## 📞 Connect With Me
+### 📞 Connect With Me
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I'm actively building a career in **AI/Machine Learning** and looking to:
 
 ----
 
-## 📌 Quick Links
+### 📌 Quick Links
 
 - 📖 [My Learning Journey](#)
 - 🎯 [Project Portfolio](#)
